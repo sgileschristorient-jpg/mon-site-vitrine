@@ -153,6 +153,10 @@ p {
   font-size: 1.2em;
 }
 
+.contact-grid  a {
+  color: #cbdcd1;
+  font-size: 1.2em;
+}
 /* Footer */
 footer {
   text-align: center;
